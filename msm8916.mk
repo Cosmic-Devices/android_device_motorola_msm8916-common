@@ -89,6 +89,7 @@ PRODUCT_PACKAGES += \
     libshim_atomic \
     libc_util \
     libshims_camera \
+    Camera2 \
     libshims_sensorlistener
 
 # Camera properties
